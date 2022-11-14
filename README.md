@@ -53,6 +53,6 @@ uvicorn app.main:app --reload
 - Отчеты Google Sheets:
     - **/google** - получение отчета о закрытых (профинансированных) проектах в формате Google Sheets. Отчет создается в указанном в .env личном аккаунте Google.
 
-## Над проектом [foodgram](https://github.com/alkh0304/cat_charity_fund) работал:
+## Над проектом [QRKot](https://github.com/alkh0304/QRkot_spreadsheets) работал:
 
 [Александр Хоменко](https://github.com/alkh0304)
