@@ -23,7 +23,6 @@ class CRUDCharityProject(CRUDBase):
 
     @staticmethod
     async def get_projects_by_completion_rate(
-        self,
         session: AsyncSession
     ) -> List[Dict[str, str]]:
         projects = await session.execute(
